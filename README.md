@@ -42,7 +42,7 @@ I'm a **Data Analyst** with a passion for uncovering insights that drive smarter
 ### **Operating Systems**
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
----
+-
 
 ## 🎯 Current Focus & Goals
 
@@ -52,7 +52,7 @@ I'm a **Data Analyst** with a passion for uncovering insights that drive smarter
 
 **🎯 2025 Goals:** Master advanced SQL and Power BI techniques, and build 3+ end-to-end data-driven projects with machine learning integration
 
----
+-
 
 ## 📂 Projects
 
@@ -63,14 +63,14 @@ I'm a **Data Analyst** with a passion for uncovering insights that drive smarter
 
 *Portfolio projects will be updated soon as I continue to expand my data analytics experience.*
 
----
+-
 
 ## 📊 GitHub Stats
 
 ![Bernard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-akumani&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-akumani&layout=compact&theme=tokyonight)
 
----
+-
 
 ## 🌐 Connect With Me
 
@@ -83,13 +83,13 @@ I'm a **Data Analyst** with a passion for uncovering insights that drive smarter
         <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+-
 
 ## 📁 Portfolio
 
 Check out my portfolio here 👉 [Bernard's Data Portfolio](https://mr-akumani.github.io/BernardTheAnalyst.github.io/)
 
----
+-
 
 > *"Data tells a story — I just help translate it."*
 
