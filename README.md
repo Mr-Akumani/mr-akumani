@@ -1,5 +1,3 @@
-# Hi there 👋. Nice to meet you!
-
 <!-- Typing animation header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&width=500&lines=Hi+there,+I'm+Bernard!;Data+Analyst+📊;Storytelling+with+Data+💡)](https://git.io/typing-svg)
 
@@ -12,7 +10,7 @@ I'm a **Data Analyst** passionate about uncovering insights that drive smarter b
 - 🤝 Looking to collaborate on **data analysis and dashboard projects**
 - ⚡ **Fun fact:** Adaptability is my superpower — I turn new challenges into opportunities to grow
 
----
+--
 
 ## 🛠️ Tech Stack
 
@@ -88,6 +86,6 @@ Check out my portfolio here 👉 [Bernard's Data Portfolio](https://mr-akumani.g
 
 > *"Data tells a story — I just help translate it."*
 
----
+--
 
 *Last updated: November 2025*
