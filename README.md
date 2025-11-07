@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Analyst** with a passion for uncovering insights that drive smarter business decisions. I combine analytical thinking and financial expertise to solve complex problems using data. Skilled in Python, SQL, and Power BI for data cleaning, visualization, and storytelling.
+I'm a **Data Analyst** passionate about uncovering insights that drive smarter business decisions. I combine analytical thinking and financial expertise to solve complex problems using data. Skilled in Python, SQL, and Power BI for data cleaning, visualization, and storytelling.
 
 - 🧩 Interested in data analytics, business intelligence, and financial data modeling
 - 🌱 Currently enhancing my skills in **data analysis**, **machine learning** and **advanced data visualization**
@@ -62,14 +62,12 @@ I'm a **Data Analyst** with a passion for uncovering insights that drive smarter
 
 *Portfolio projects will be updated soon as I continue to expand my data analytics experience.*
 
--
 
 ## 📊 GitHub Stats
 
 ![Bernard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-akumani&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-akumani&layout=compact&theme=tokyonight)
 
--
 
 ## 🌐 Connect With Me
 
@@ -82,13 +80,11 @@ I'm a **Data Analyst** with a passion for uncovering insights that drive smarter
         <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
--
 
 ## 📁 Portfolio
 
 Check out my portfolio here 👉 [Bernard's Data Portfolio](https://mr-akumani.github.io/BernardTheAnalyst.github.io/)
 
--
 
 > *"Data tells a story — I just help translate it."*
 
