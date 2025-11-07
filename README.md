@@ -42,7 +42,7 @@ I'm a **Data Analyst** with a passion for uncovering insights that drive smarter
 ### **Operating Systems**
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
--
+
 
 ## 🎯 Current Focus & Goals
 
@@ -52,7 +52,6 @@ I'm a **Data Analyst** with a passion for uncovering insights that drive smarter
 
 **🎯 2025 Goals:** Master advanced SQL and Power BI techniques, and build 3+ end-to-end data-driven projects with machine learning integration
 
--
 
 ## 📂 Projects
 
